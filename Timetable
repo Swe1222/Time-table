@@ -1,0 +1,102 @@
+<html>
+<head>
+<title>Time table</title>
+</head>
+<table border=1 style="border-collapse:collapse;">
+<thead><bodystyle="background-color:lightcyan;">
+<style>
+table,th,td{border:1px solid black;}
+</style>
+<h2 style="color:olive;"><img src="C:\Users\HP\Documents\logo.jpg" height="80" width="80">SRI SHAKTHI INSTITUTE OF ENGINEERING AND<br><h2 style="text-align:center;color:olive;">TECHNOLOGY
+</h2>
+</thead>
+<tbody>
+<tr style="background-color:lightblue;">
+<th>Day</th>
+<th>9.15am</th>
+<th>10.00am</th>
+<th>10.45am</th>
+<th>11.50am</th>
+<th>12.15pm</th>
+<th>1.20pm</th>
+<th>2.05pm</th>
+<th>2.50pm</th>
+<th>3.50pm</th>
+<th>4.35pm</th>
+</tr>
+<tr>
+<td>Monday</td>
+<td>Ctps</td>
+<td>Fet</td>
+<td>Physics</td>
+<td>English</td>
+<td>Maths</td>
+<td rowspan="6" align="center" >Lunch</td>
+<td>Quants</td>
+<td colspan="3" align="center">Engineering Exploration</td>
+</tr>
+<tr>
+<td>Tuesday</td>
+<td colspan="5" align="center">Crop Production</td>
+<td>Maths</td>
+<td colspan="3" align="center">Fet</td>
+</tr>
+<tr>
+<td>Wednesday</td>
+<td>English</td>
+<td>Ctps</td>
+<td>Maths</td>
+<td>Physics</td>
+<td>Fet</td>
+<td>Tamil</td>
+<td>English</td>
+<td>Physics</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Thursday</td>
+<td colspan="3" align="center">Physics</td>
+<td>Fet</td>
+<td>English</td>
+<td>Ctps</td>
+<td colspan="3" align="center">Ctps Lab</td>
+</tr>
+<tr>
+<td>Friday</td>
+<td>English</td>
+<td>Ctps</td>
+<td>Maths</td>
+<td>Physics</td>
+<td>Fet</td>
+<td>Ctps</td>
+<td>Maths</td>
+<td>Fet</td>
+<td>Physics</td>
+</tr>
+<tr>
+<td>Saturday</td>
+<td>Fet</td>
+<td>Physics</td>
+<td>Library</td>
+<td>Ctps</td>
+<td>Maths</td>
+<td>Fet</td>
+<td>English</td>
+<td>Maths</td>
+<td>Ctps</td>
+</tr>
+<colgroup>
+<col style="background-color:lightblue;"></col>
+<col style="background-color:mediumturquoise;"></col>
+<col style="background-color:mediumturquoise;"></col>
+<col style="background-color:mediumturquoise;"></col>
+<col style="background-color:mediumturquoise;"></col>
+<col style="background-color:mediumturquoise;"></col>
+<col style="background-color:lightblue;"></col>
+<col style="background-color:mediumturquoise;"></col>
+<col style="background-color:mediumturquoise;"></col>
+<col style="background-color:mediumturquoise;"</col>
+<col style="background-color:mediumturquoise;"></col>
+</colgroup>
+</table>
+</html>
